@@ -1,0 +1,427 @@
+/****************** start du div cyclemon ************/
+.cyclemon{
+	background: url('../images/cyclemon.jpg');
+	background-size: 50% 0.5;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+/****************** end du div cyclemon ************/
+
+/****************** start du div velo night rider ************/
+.rider{
+	background: url('../images/fond18.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.sub-another{
+	background: url('../images/velo18.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+
+/****************** end du div velo night rider ************/
+
+/****************** start du div velo travel ************/
+.travel{
+	background: url('../images/fond1.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.travel .sub-another{
+	background: url('../images/traveler.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo travel ************/
+
+/****************** start du div velo weirdo ************/
+.weirdo{
+	background: url('../images/fond2.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.weirdo .sub-another{
+	background: url('../images/weirdo.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+/****************** end du div velo weirdo************/
+
+/****************** start du div velo hipster ************/
+.hipster{
+	background: url('../images/fond3.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.hipster .sub-another{
+	background: url('../images/velo3.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo hipster ************/
+
+/****************** start du div velo swagger ************/
+.swagger{
+	background: url('../images/fond4.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.swagger .sub-another{
+	background: url('../images/velo4.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo swagger ************/
+
+/****************** start du div velo vintage guy ************/
+.vindage-guy{
+	background: url('../images/fond5.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.vindage-guy .sub-another{
+	background: url('../images/velo5.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo vintage guy ************/
+
+/****************** start du div velo grand pa ************/
+.grand-pa{
+	background: url('../images/fond6.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.grand-pa .sub-another{
+	background: url('../images/velo6.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo grand pa ************/
+
+/****************** start du div velo tandem ************/
+.tandem{
+	background: url('../images/fond7.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.tandem .sub-another{
+	background: url('../images/velo7.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo tandem ************/
+
+/****************** start du div velo baby doll ************/
+.baby-doll{
+	background: url('../images/fond8.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.baby-doll .sub-another{
+	background: url('../images/velo8.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo baby doll ************/
+
+/****************** start du div velo cougar ************/
+.cougar{
+	background: url('../images/fond9.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.cougar .sub-another{
+	background: url('../images/velo9.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo cougar ************/
+
+/****************** start du div velo freestyle ************/
+.freestyle{
+	background: url('../images/fond10.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.freestyle .sub-another{
+	background: url('../images/velo10.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo freestyle ************/
+
+/****************** start du div velo gansta ************/
+.gangsta{
+	background: url('../images/fond11.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.gangsta .sub-another{
+	background: url('../images/velo11.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo gansta ************/
+
+/****************** start du div velo lil-gangsta ************/
+.lil-gangsta{
+	background: url('../images/fond122.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+	z-index: 2;
+}
+
+.lil-gangsta .sub-another{
+	background: url('../images/velo12.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo lil-gangsta ************/
+
+/****************** start du div velo runner ************/
+.runner{
+	background: url('../images/fond13.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.runner .sub-another{
+	background: url('../images/velo13.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo runner ************/
+
+/****************** start du div velo rigid-guy ************/
+.rigid-guy{
+	background: url('../images/fond14.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.rigid-guy .sub-another{
+	background: url('../images/velo14.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo rigid-guy ************/
+
+/****************** start du div velo warrior ************/
+.warrior{
+	background: url('../images/fond15.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.warrior .sub-another{
+	background: url('../images/velo15.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo warrior ************/
+
+/****************** start du div velo lazy-guy ************/
+.lazy-guy{
+	background: url('../images/fond16.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.lazy-guy .sub-another{
+	background: url('../images/velo16.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo lazy-guy ************/
+
+/****************** start du div velo fake ************/
+.fake{
+	background: url('../images/fond17.jpg');
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100vh;
+}
+
+.fake .sub-another{
+	background: url('../images/velo17.png');
+	background-size: 50% .5;
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width: 100%;
+	height: 100vh;
+	z-index: 1;
+}
+
+/****************** end du div velo fake ************/
+

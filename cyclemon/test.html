@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<style type="text/css">
+		.blur{
+			filter: blur(100px);
+		}
+	</style>
+</head>
+<body>
+
+	<img class="blur" id="image" src=".jpg" width="1200">
+
+	<script type="text/javascript">
+		var image = document.images[0];
+		var bigImage = document.createElement("img");
+		bigImage.onload = function () {
+			image.src = this.src;
+			image.className = "";
+		}
+
+		setTimeout(function () {
+			bigImage.src = "images/fond2";
+		}, 1000)
+	</script>
+</body>
+</html>

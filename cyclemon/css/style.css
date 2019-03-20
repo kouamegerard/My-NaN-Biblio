@@ -1,0 +1,136 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background: white;
+}
+
+.container{
+	background: #fec56d;
+}
+
+/****************** start des menus ************/
+.starter{
+	position: fixed;
+	float: left;
+	top: 30px;
+	left: 30px;
+}
+
+.starter ul{
+	display: flex;
+	position: fixed;
+	margin: 10px;	
+}
+.starter ul li{
+	list-style: none;
+}
+.starter ul li img{
+	opacity: 1;
+	cursor: pointer;
+	margin-right: 35px;
+}
+/****************** end des menus ************/
+
+/************** Nav des buttons*********/
+nav{
+	position: fixed;
+	right: 60px;
+	top: 30px;
+	opacity: .5;
+}
+
+nav ul{
+	display: block;
+	position: fixed;
+	margin: 10px;
+}
+
+nav ul li{
+	list-style: none;
+}
+
+nav ul li a{
+	color: gray;
+}
+
+nav ul li a img{
+	cursor: pointer;
+}
+
+/**************** end nav des buttons**********/
+
+.scroll{
+	transition: .5s;
+	animation: animate 1s linear;
+}
+
+@keyframes animate{
+	0%{
+		transform: rotate(45deg);
+	}
+	5%{
+		transform: rotate(45deg);
+	}
+	10%{
+		transform: rotate(45deg);
+	}
+
+	15%{
+		transform: rotate(45deg);
+	}
+	25%{
+		transform: rotate(45deg);
+	}
+	30%{
+		transform: rotate(45deg);
+	}
+
+	35%{
+		transform: rotate(45deg);
+	}
+	40%{
+		transform: rotate(45deg);
+	}
+	45%{
+		transform: rotate(45deg);
+	}
+	50%{
+		transform: rotate(45deg);
+	}
+	55%{
+		transform: rotate(45deg);
+	}
+	60%{
+		transform: rotate(45deg);
+	}
+	65%{
+		transform: rotate(45deg);
+	}
+	70%{
+		transform: rotate(45deg);
+	}
+	75%{
+		transform: rotate(45deg);
+	}
+	80%{
+		transform: rotate(45deg);
+	}
+	85%{
+		transform: rotate(45deg);
+	}
+	90%{
+		transform: rotate(45deg);
+	}
+	95%{
+		transform: rotate(45deg);
+	}
+	100%{
+		transform: rotate(45deg);
+	}
+
+}

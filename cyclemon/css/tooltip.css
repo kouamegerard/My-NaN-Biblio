@@ -1,0 +1,653 @@
+
+/***************** tooltip css ****************/
+
+a{
+	text-decoration: none;
+}
+.tooltip-title{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 0;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title .tooltip-title-img::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title:hover .tooltip-title-img{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title1{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img1{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 17px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title1 .tooltip-title-img1::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title1:hover .tooltip-title-img1{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+
+.tooltip-title2{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img2{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 35px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title2 .tooltip-title-img2::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title2:hover .tooltip-title-img2{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title3{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img3{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 53px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title3 .tooltip-title-img3::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title3:hover .tooltip-title-img3{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+.tooltip-title4{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img4{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 71px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title4 .tooltip-title-img4::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title4:hover .tooltip-title-img4{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title5{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img5{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 89px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title5 .tooltip-title-img5::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title5:hover .tooltip-title-img5{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+.tooltip-title6{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img6{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 107px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title6 .tooltip-title-img6::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title6:hover .tooltip-title-img6{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title7{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img7{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 125px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title7 .tooltip-title-img7::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title7:hover .tooltip-title-img7{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+.tooltip-title8{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img8{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 143px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title8 .tooltip-title-img8::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title8:hover .tooltip-title-img8{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title9{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img9{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 162px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title9 .tooltip-title-img9::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title9:hover .tooltip-title-img9{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+
+.tooltip-title10{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img10{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	top: 182px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title10 .tooltip-title-img10::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title10:hover .tooltip-title-img10{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title11{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img11{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	bottom: 127px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title11 .tooltip-title-img11::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title11:hover .tooltip-title-img11{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+
+.tooltip-title12{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img12{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	bottom: 107px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title12 .tooltip-title-img12::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title12:hover .tooltip-title-img12{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title13{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img13{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	bottom: 89px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title13 .tooltip-title-img13::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title13:hover .tooltip-title-img13{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+.tooltip-title14{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img14{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	bottom: 71px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title14 .tooltip-title-img14::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title14:hover .tooltip-title-img14{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title15{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img15{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	bottom: 53px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title15 .tooltip-title-img15::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title15:hover .tooltip-title-img15{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+.tooltip-title16{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img16{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	bottom: 35px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title16 .tooltip-title-img16::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title16:hover .tooltip-title-img16{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+/***************** tooltip css ****************/
+.tooltip-title17{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img17{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	bottom: 17px;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title17 .tooltip-title-img17::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title17:hover .tooltip-title-img17{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
+
+
+/***************** tooltip css ****************/
+.tooltip-title18{
+	text-decoration: none;
+	color: white;
+	opacity: 1;
+}
+
+.tooltip-title-img18{
+	visibility: hidden;
+	padding: 5px 0;
+	box-sizing: border-box;
+	bottom: 0;
+	position: absolute;
+	z-index: 1;
+	right: 30px;
+}
+
+.tooltip-title18 .tooltip-title-img18::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.tooltip-title18:hover .tooltip-title-img18{
+	visibility: visible;
+}
+
+/**************** end tooltip ******************/
