@@ -1,0 +1,21 @@
+var width = $(document).width() - $('#mydiv').width();
+$(document).ready(function() {
+
+    function animateMydiv() {
+        $('#mydiv').animate({
+                'left': width + 'px'
+            }, 9000,
+
+            function() {
+                $('#test').css({
+                    opacity: 1.0,
+                    visibility: "visible"
+                }, 9000).animate({
+                    opacity: 0
+                }, 9000);
+            }).animate({
+            'left': '0px'
+        }, 9000,animateMydiv);
+    }
+    animateMydiv();
+});
